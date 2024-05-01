@@ -9,5 +9,5 @@ Links that can help:
 
 [IFFS-ML Lab](https://sites.google.com/uncg.edu/shan-suthaharan/iffs-ml-lab)
 
-[First Author - Adarsh Gadari LinkedIn profile](www.linkedin.com/in/adarsh-gadari)
+[First Author - Adarsh Gadari LinkedIn profile](www.linkedin.com/in/adarsh-gadari/)
 
