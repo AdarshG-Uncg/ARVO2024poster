@@ -11,3 +11,16 @@ Links that can help:
 
 [First Author - Adarsh Gadari LinkedIn profile](https://www.linkedin.com/in/adarsh-gadari/)
 
+Bookmark this page:
+
+- **On iOS:**
+  1. Tap the share button at the bottom of the screen (it looks like a square with an arrow pointing up).
+  2. Scroll down in the Share Sheet until you see the "Add Bookmark" option. Tap on it.
+  3. Optionally, edit the name and choose the bookmark folder before saving.
+  4. Tap "Save" to add the bookmark.
+
+- **On Chrome for Android:**
+  1. Tap the three dots menu icon at the top-right corner of the screen.
+  2. Select the "Star" icon from the menu. This will bookmark the page.
+  3. Optionally, edit the name and choose the bookmark folder before saving.
+  4. Tap "Save" to add the bookmark.
